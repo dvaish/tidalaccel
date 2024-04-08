@@ -1,0 +1,3 @@
+[submodule "tidalsim"]
+	path = tidalsim
+	url = git@github.com:euphoric-hardware/tidalsim.git
